@@ -7,5 +7,8 @@ Beautiful 3D low-poly RPG world setup with multiplayer networking capabilities, 
 - Lots and lots and lots of low-poly modelling and line art
 
 In this repository you'll also find a previous 2D version, before a 3D alternative was tackled.
+Footage:
+- [3D world](https://youtu.be/5nATSPeDM44)
+- [Original 2D world](https://youtu.be/RIUmXqQ7mWw)
 
 Worked on from September 2020 to June 2021.
