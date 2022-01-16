@@ -1,0 +1,18 @@
+[2021-05-31]
+	- Made a copy of previous rabbit animation
+	- Recreated turtle mesh using the same armatures and animations
+	- Finished the shell, not yet joined into a single object
+	- Created skin and underside materials
+[2021-06-01]
+	- Attached shell to turtle
+	- Created turtle shell versathem material
+	- Adjusted character rigging for animation
+	- Completed character animation with former rabbit animations
+	- Removed keyframes for rabbit ears, which no longer exist on the turtle
+	- Redesigned prone animation to better adjust for fins instead of arms
+[2021-06-17]
+	- Fixed a part of the turtle's body jutting out during the backward walk animation
+[2021-06-25]
+	- Replaced head rotation with idle rotation animations
+	- Rotation animations are divided into two parts: head turn, then body turn
+	- Implemented additional frame in stage 2 turning animations for additive reference pose

@@ -1,0 +1,6 @@
+D:\Documents\FINAL AISLE\Server Workspace\Final Aisle Server\Final Aisle Server\Final Aisle Shared\bin\Debug\Final Aisle Shared.dll
+D:\Documents\FINAL AISLE\Server Workspace\Final Aisle Server\Final Aisle Server\Final Aisle Shared\bin\Debug\Final Aisle Shared.pdb
+D:\Documents\FINAL AISLE\Server Workspace\Final Aisle Server\Final Aisle Server\Final Aisle Shared\obj\Debug\Final Aisle Shared.csproj.CoreCompileInputs.cache
+D:\Documents\FINAL AISLE\Server Workspace\Final Aisle Server\Final Aisle Server\Final Aisle Shared\obj\Debug\Final Aisle Shared.dll
+D:\Documents\FINAL AISLE\Server Workspace\Final Aisle Server\Final Aisle Server\Final Aisle Shared\obj\Debug\Final Aisle Shared.pdb
+D:\Documents\FINAL AISLE\Server Workspace\Final Aisle Server\Final Aisle Server\Final Aisle Shared\obj\Debug\Final Aisle Shared.csproj.AssemblyReference.cache

@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Terrain
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 1934347063
+    locked: 0
+  - name: Panning Background 2
+    uniqueID: 866505557
+    locked: 0
+  - name: Panning Background 1
+    uniqueID: 2141102425
+    locked: 0
+  - name: Static Background
+    uniqueID: 3204859979
+    locked: 0
+  - name: Collidable Back
+    uniqueID: 702265359
+    locked: 0
+  - name: Other Entities
+    uniqueID: 4199628629
+    locked: 0
+  - name: Collidable Front
+    uniqueID: 4171730175
+    locked: 0
+  - name: Middleground
+    uniqueID: 3073677715
+    locked: 0
+  - name: Player
+    uniqueID: 3153578867
+    locked: 0
+  - name: Particle Effects
+    uniqueID: 4231296157
+    locked: 0
+  - name: Static Foreground
+    uniqueID: 851597675
+    locked: 0
+  - name: Panning Foreground 1
+    uniqueID: 57206145
+    locked: 0
+  - name: HUD
+    uniqueID: 1444253523
+    locked: 0

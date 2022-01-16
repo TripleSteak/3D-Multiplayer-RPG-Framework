@@ -1,0 +1,9 @@
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\Project BROCCOLI Shared\bin\Debug\Project BROCCOLI Shared.dll
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\Project BROCCOLI Shared\bin\Debug\Project BROCCOLI Shared.pdb
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\Project BROCCOLI Shared\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\Project BROCCOLI Shared\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\Project BROCCOLI Shared\obj\Debug\Project BROCCOLI Shared.csprojAssemblyReference.cache
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\Project BROCCOLI Shared\obj\Debug\Project BROCCOLI Shared.csproj.CoreCompileInputs.cache
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\Project BROCCOLI Shared\obj\Debug\Project BROCCOLI Shared.csproj.CopyComplete
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\Project BROCCOLI Shared\obj\Debug\Project BROCCOLI Shared.dll
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\Project BROCCOLI Shared\obj\Debug\Project BROCCOLI Shared.pdb

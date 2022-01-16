@@ -1,0 +1,12 @@
+D:\Documents\FINAL AISLE\Server Workspace\Final Aisle Server\Final Aisle Server\Final Aisle Server\obj\Debug\Final Aisle Server.csproj.CoreCompileInputs.cache
+D:\Documents\FINAL AISLE\Server Workspace\Final Aisle Server\Final Aisle Server\Final Aisle Server\bin\Debug\Final Aisle Server.exe.config
+D:\Documents\FINAL AISLE\Server Workspace\Final Aisle Server\Final Aisle Server\Final Aisle Server\bin\Debug\Final Aisle Server.exe
+D:\Documents\FINAL AISLE\Server Workspace\Final Aisle Server\Final Aisle Server\Final Aisle Server\bin\Debug\Final Aisle Server.pdb
+D:\Documents\FINAL AISLE\Server Workspace\Final Aisle Server\Final Aisle Server\Final Aisle Server\obj\Debug\Final Aisle Server.exe
+D:\Documents\FINAL AISLE\Server Workspace\Final Aisle Server\Final Aisle Server\Final Aisle Server\obj\Debug\Final Aisle Server.pdb
+D:\Documents\FINAL AISLE\Server Workspace\Final Aisle Server\Final Aisle Server\Final Aisle Server\bin\Debug\Final Aisle Shared.dll
+D:\Documents\FINAL AISLE\Server Workspace\Final Aisle Server\Final Aisle Server\Final Aisle Server\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\FINAL AISLE\Server Workspace\Final Aisle Server\Final Aisle Server\Final Aisle Server\bin\Debug\Final Aisle Shared.pdb
+D:\Documents\FINAL AISLE\Server Workspace\Final Aisle Server\Final Aisle Server\Final Aisle Server\obj\Debug\Final Aisle Server.csproj.AssemblyReference.cache
+D:\Documents\FINAL AISLE\Server Workspace\Final Aisle Server\Final Aisle Server\Final Aisle Server\obj\Debug\Final Aisle Server.csproj.CopyComplete
+D:\Documents\FINAL AISLE\Server Workspace\Final Aisle Server\Final Aisle Server\Final Aisle Server\bin\Debug\Newtonsoft.Json.xml

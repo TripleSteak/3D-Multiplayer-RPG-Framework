@@ -1,0 +1,9 @@
+D:\Documents\FINAL AISLE\Unity Workspace\Final Aisle\Final Aisle Server\FinalAisle.Shared\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\FINAL AISLE\Unity Workspace\Final Aisle\Final Aisle Server\FinalAisle.Shared\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\FINAL AISLE\Unity Workspace\Final Aisle\Final Aisle Server\FinalAisle.Shared\obj\Debug\FinalAisle_Shared.csprojAssemblyReference.cache
+D:\Documents\FINAL AISLE\Unity Workspace\Final Aisle\Final Aisle Server\FinalAisle.Shared\obj\Debug\FinalAisle_Shared.csproj.CoreCompileInputs.cache
+D:\Documents\FINAL AISLE\Unity Workspace\Final Aisle\Final Aisle Server\FinalAisle.Shared\obj\Debug\FinalAisle_Shared.csproj.CopyComplete
+D:\Documents\FINAL AISLE\Unity Workspace\Final Aisle\Final Aisle Server\FinalAisle.Shared\bin\Debug\FinalAisle_Shared.dll
+D:\Documents\FINAL AISLE\Unity Workspace\Final Aisle\Final Aisle Server\FinalAisle.Shared\bin\Debug\FinalAisle_Shared.pdb
+D:\Documents\FINAL AISLE\Unity Workspace\Final Aisle\Final Aisle Server\FinalAisle.Shared\obj\Debug\FinalAisle_Shared.dll
+D:\Documents\FINAL AISLE\Unity Workspace\Final Aisle\Final Aisle Server\FinalAisle.Shared\obj\Debug\FinalAisle_Shared.pdb

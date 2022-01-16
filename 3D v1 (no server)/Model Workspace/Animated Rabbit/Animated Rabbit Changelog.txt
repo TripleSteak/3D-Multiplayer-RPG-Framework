@@ -1,0 +1,15 @@
+[2020-12-11]
+	- Previous fully functioning model
+[2021-01-30]
+	- Transformed to low poly model
+[2021-02-03]
+	- Fixed wrong colour on certain areas of skin
+[2021-02-10]
+	- Added backward walking animation
+[2021-02-13]
+	- Lowered arm swing intensity in back walking animation
+	- Added strafe and diagonal animations
+[2021-02-14]
+	- Modified crawl animation so that the rabbit doesn't look like a fish
+[2021-02-15]
+	- Modified jump to look less awkward

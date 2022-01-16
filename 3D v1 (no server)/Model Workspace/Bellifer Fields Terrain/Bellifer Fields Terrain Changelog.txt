@@ -1,0 +1,39 @@
+[2021-01-29]
+	- SPRINGHOOK
+		- Three empty orange tents
+		- Detailed grasses
+		- Fire pit with stack of logs
+		- Fishing dock
+		- Dirt trail
+		- Started on flowers
+[2021-01-30]
+	- SPRINGHOOK
+		- Finished flowers
+		- Fixed self-intersecting polygons in fishing dock
+		- Changed one tent colour to red
+[2021-01-31]
+	- SPRINGHOOK
+		- Fixed self-intersecting polygons in carroak trees
+[2021-02-03]
+	- SPRINGHOOK
+		- Rescaled certain models to better fit MMORPG world style
+[2021-02-10]
+	- SPRINGHOOK
+		- Thickened back layer of tents to prevent camera from going through
+[2021-02-11]
+	- SPRINGHOOK
+		- Reworked tents, added interior furniture
+		- Created a bed for the tents
+		- Created a drawer for the tents
+		- Created a chessboard for the tents
+[2021-02-12]
+	- SPRINGHOOK
+		- Created a candle for the tents
+[2021-02-13]
+	- SPRINGHOOK
+		- Added a folded, collared shirt on tent ground
+		- Increased tent height
+		- Adjusted furniture scale and normals
+[2021-03-09]
+	- LAKE PINNIGON
+		- Added triangles to water surface

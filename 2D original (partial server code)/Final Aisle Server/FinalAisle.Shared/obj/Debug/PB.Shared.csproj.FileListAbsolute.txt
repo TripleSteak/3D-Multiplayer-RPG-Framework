@@ -1,0 +1,9 @@
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\PB.Shared\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\PB.Shared\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\PB.Shared\obj\Debug\PB.Shared.csprojAssemblyReference.cache
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\PB.Shared\obj\Debug\PB.Shared.csproj.CoreCompileInputs.cache
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\PB.Shared\obj\Debug\PB.Shared.csproj.CopyComplete
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\PB.Shared\bin\Debug\PB.Shared.dll
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\PB.Shared\bin\Debug\PB.Shared.pdb
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\PB.Shared\obj\Debug\PB.Shared.dll
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\PB.Shared\obj\Debug\PB.Shared.pdb

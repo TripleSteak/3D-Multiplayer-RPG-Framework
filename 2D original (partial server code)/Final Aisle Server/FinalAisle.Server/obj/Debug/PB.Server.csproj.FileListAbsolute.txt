@@ -1,0 +1,12 @@
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\PB.Server\obj\Debug\PB.Server.csprojAssemblyReference.cache
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\PB.Server\obj\Debug\PB.Server.csproj.CoreCompileInputs.cache
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\PB.Server\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\PB.Server\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\PB.Server\obj\Debug\PB.Server.csproj.CopyComplete
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\PB.Server\bin\Debug\PB.Server.exe.config
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\PB.Server\bin\Debug\PB.Server.exe
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\PB.Server\bin\Debug\PB.Server.pdb
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\PB.Server\bin\Debug\PB.Shared.dll
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\PB.Server\bin\Debug\PB.Shared.pdb
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\PB.Server\obj\Debug\PB.Server.exe
+D:\Documents\PROJECT BROCCOLI\Unity Workspace\Project BROCCOLI\Project BROCCOLI Server\PB.Server\obj\Debug\PB.Server.pdb
